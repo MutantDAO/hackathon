@@ -61,6 +61,6 @@ Each project is allowed to include a transaction fee of up to 2,5% of the $FISH 
 - FISH Party!
 
 ### DAO Judging
-- After 1 week real world usage in the wild the DAO will cast their votes on who should win
+- After 1 week real world usage in the wild and with all relevant reports and walk throughs, the DAO will cast their votes on who should win!
 
 
