@@ -38,25 +38,25 @@ Each project is allowed to include a transaction fee of up to 2,5% of the $FISH 
 
 ## Timelines
 
-### Publicity push (Oct 15 - 22)
+### Publicity push (Nov 15 - 22)
 - DAO Marketing will promote the hackathon so we can gather registrations from our registration form (TBD)
 
-### Registration closes (Mon Oct 22) 
+### Registration closes (Mon Nov 22) 
 - Teams must have their projects be registered no later than 9am EST Monday Oct 22 2021 when the official day 1 hacking starts.
 
-### Submission and Ropsten launch (Fri Oct 26)
+### Submission and Ropsten launch (Fri Nov 26)
 - 6pm EST on Friday Oct 26 projects are to be 
   1) Submitted for testing on testnet Ropsten(?)
   2) All code must be submitted to github
   3) Contracts must be verified on etherscan  
   4) A video presentation and walkthrough of your project uploaded to a private youtube link. 
 
-### Contract auditing / Cross demo (Fri Oct 26 - Mon 29 Oct)
+### Contract auditing / Cross demo (Fri Nov 26 - Mon 29 Nov)
 - Code will be adjudicated for security issues
 - QA will asses your work
 - Technical report will be produced
 
-### Mainnet Launch (Mon Oct 29)
+### Mainnet Launch (Mon Nov 29)
 - Projects will be deployed on mainnet
 - FISH Party!
 
