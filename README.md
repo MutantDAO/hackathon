@@ -60,54 +60,47 @@ Incidentals:
 
 ## Guidelines
 
-- Teams should be smaller than 6 but may be larger.
+- There are no limits on team size but we would recommend working in smaller teams.
 - Your project must send $FISH to the multisig wallet and provide value to the Mutant World.\*\*
-- Your project MUST be open source.
+- Your project MUST be delivered under an open source license, this is vital for the security of our community and it allows others in the community to build on top of what you have done.
 - Your project must contribute value to the Mutant Community.
 - Your project must be accessible by the mutant community and cannot be behind a paywall.
 - Financial mechanisms must be trustless, auditable and on-chain.
 - Creative Layer 2 solutions are fine and encouraged.
-- Teams must be registered by the registration date.
+- Teams must be registered by the registration date. Late entries will not be accepted.
 - Teams can have members from outside the MutantCat community although you will need at least one verified member on our discord for communication purposes.
-  . Teams are welcome to share, gain advice or support from organizers, volunteers, sponsors, and others.
-- Teams are welcome to use an idea they have had prior to the event although the must be prepared to submit their project under the submission guidelines.
+- Teams are welcome to share, gain advice or support from organizers, volunteers, sponsors, and others.
+- Teams are welcome to use an idea they have had prior to the event although they must be prepared to submit their project under the submission guidelines.
+- Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking competition rules, poor conduct or other bad behaviour. This is an open supportive group. Sportsmanship, dignity and suportiveness are all important. We are here primarily to make the mutant community thrive. We are all on the one team.
+
+9. Projects found to have any potentially malicious code not within the spirit of the FISHathon will be immediately disqualified.
+
+- Minor unintentional security issues will be deal with on a case by case basis.
+- Projects that are submitted to the DAO will form part of the DAO’s code base and be available under an MIT license. This grants the DAO unlimited use of the code and/or services made available and allows modifications as decided by the DAO.
 
 ## Road Map
 
-The DAO will vote on the winner
+| Date                           | description                                                                                                                                                                                                                                                                                   |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nov 29 2021                    | Registrations open. <br/>Fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeZYLyoBJ69kGS5BGw1_yTE26e-yTZuZNHHxhYIveSKZjyh-w/viewform?usp=sf_link)<br/>1 x page draft white paper explaining your project                                                            |
+| Dec 3 2021                     | Registrations close. Hacking Begins!                                                                                                                                                                                                                                                          |
+| Dec 13 2021                    | Submissions are made <br/>Your submission will consist of the following:<br/><li>1 x github monorepo.</li><li>Contracts deployed to Ropsten</li><li>1 x youtube video walk through of your submission</li><li>1 x whitepaper explaining the intent of your project</li>                       |
+| Dec 17 2021                    | Projects are deployed to the DAO's server for testnet testing by the community <br/>After submissions close you might be asked to make small security modifications to your code if flagged by a code auditor however no further changes will be asked of you between submission and judging. |
+| Dec 23 2021                    | The DAO will vote on the winner via a series of snapshot votes followed by a Christmas Party!                                                                                                                                                                                                 |
+|                                |                                                                                                                                                                                                                                                                                               |
+| Between Christmas and New Year | You are welcome to include changes and maintenance after judging in order to complete the project and send it live.                                                                                                                                                                           |
+| 1st week of January 2022       | Projects are deployed live to mainnet!                                                                                                                                                                                                                                                        |
 
 ## Team
 
-Relevant Links
+@kathodler
+@dumplingsz
+@jorgunho
 
-- Snapshot vote
-
-Goals of the competition
-
-- Your project must send $FISH to the multisig wallet and provide value to the Mutant World.\*\*
-- Your project must be open source.
-- Your project must contribute value to the Mutant Community
-- Your project must be accessible by the mutant community.
-- Financial mechanisms must be trustless, auditable and on-chain.
-
-\*\* We are calling this FISH burning it is not technically burning tokens but for our purposes, this is an easy way to talk about it
-
-## Prizes
-
-The DAO is making available the following prizes to incentivize and reward to the teams developing the best $FISH sinks. The DAO will have the authority to select the winner.
-
-- 1 first place. 10 ETH
-- Up to 2 seconde places: 5 ETH
-- Up to 2 third places: 2,5 ETH
-
-Each project is allowed to include a transaction fee of up to 2,5% of the $FISH involved in the provisioning of the services provided by the project. This fee will be considered as a maintenance fee, and should go to the organization or individuals in charge of the maintenance of the project.
+---
 
 # The rules of the competition
 
-1. There is no maximum or minimum team size. As a participant, you should make sure to check how many prizes are available per team.
-2. Teams must be registered at the start of the competition
-3. Teams can be formulated with anybody, regardless of ownership of an NFT token of the mutant verse (Mutant cat, Mutant gorilla or Serums).
-4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. Teams can use an idea or code they had before the event.
 6. Teams must release their code under an MIT license
 7. Teams can use libraries, frameworks, or open-source code in their projects only. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed. (KH - not sure I have an issue with this)
