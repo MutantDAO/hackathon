@@ -54,7 +54,7 @@ Prizes:
 - 2.5 ETH ($10k) fourth prize
 - 2.5 ETH ($10k) fifth prize
 
-We feel these prize amounts are reasonable as to fund a sustained serious quick software engineering MVP in a startup environment would generally cost at a minimum 40-50 ETH
+We feel these prize amounts are reasonable as to fund a sustained serious quick software engineering MVP in a startup environment would generally cost far more.
 
 Incidentals:
 5 ETH ($21k) marketing, hosting, technical and incidentals budget
