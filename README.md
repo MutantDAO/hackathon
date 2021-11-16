@@ -2,19 +2,19 @@
 
 ## Abstract
 
-On November 6 2021 the Mutant DAO voted to set aside funds and hold a hackathon to enrich $FISH utility within the DAO ecosystem. The hackathon or $FISHathon as like to call it will be a call to arms for all developers/artists/creators that are part of this community to pool together all their resources and build out complementary $FISH utility as it benefits all mutant holders. If successful it may turn into a regular event for Mutant World.
+On November 6 2021 the Mutant DAO voted to set aside funds and hold a hackathon to enrich FISH utility within the DAO ecosystem. The hackathon or FISH-athon as we like to call it, will be a call to arms for all developers/artists & creators that are part of this community to pool together all their resources and build out complementary FISH utility as it benefits all mutant holders. If successful it may turn into a regular event for Mutant World.
 
 ## Introduction
 
-MutantCats released in early October is the first DAO that purchases and fractionalizes Cool Cats, CryptoPunks and more valuable blue chip NFTs to be distributed to its members. The FISH token an ERC20 token on Ethereum, represents fractional shares of Cool Cats held in the vault but also is the primary token used for utility in the Mutant World. Each Mutant Cat NFT earns 10 FISH per day from staking.
+MutantCats released in early October 2021 was the first DAO to purchase and fractionalize Cool Cats, CryptoPunks and more valuable blue chip NFTs so they can be distributed to its members. The FISH token, an ERC20 token on Ethereum, represents fractional shares of blue chip NFTs held in the vault but also is the primary token used for utility in the Mutant World. Each Mutant Cat NFT earns 10 FISH per day from staking.
 
-As November 2021 began MutantGorillas were released at Auction. MutantGorillas can be staked to earn serum NFTS which can be used to cure MutantCats which allows them to breed virtual reality VX Cats to be used in the Metaverse. MutantGorillas play an important role as the first FISH sink to go live. FISH token is used to speed up serum production.
+As November 2021 began MutantGorillas were released at Auction. MutantGorillas can be staked to earn SERUM NFTS which can be used to cure MutantCats which, inturn, allows breeding of virtual reality VX Cats for the Metaverse. MutantGorillas play an important role as the first FISH sink and FISH utility project to go live. FISH token is used by staked gorillas to speed up SERUM production.
 
-The MutantDAO has requested we setup a hackathon to expedite the number of innovative and creative ways we as a community can provide further FISH and SERUM utility aside from simply speeding up SERUM production or curing MutantCats. This hackathon is seen as a means to accomplish this.
+The MutantDAO has requested we setup a hackathon to expedite the number of innovative and creative ways we, as a community, can provide further FISH and SERUM utility aside from simply speeding up SERUM production or curing MutantCats. This hackathon is seen as a means to accomplish this.
 
 ## Problem, Solution, and Description
 
-FISH is a new ERC20 utility token which has been released ready for future utility. Without quick utility and with constant issuence FISH token value on secondary markets will drop as more fish comes on to the market. The value of FISH can be considered a function of scarcity versus utility or supply and demand so increasing the number of ways that the community can use FISH will increase the demand for FISH whilst also increasing the number of ways the community could take FISH out of circulation will decrease the supply for FISH. Both of these things are good tokenomic outcomes.
+FISH is a new ERC20 utility token which has been released ready for future utility. As a brand new token, without immediate utility and with constant issuence, FISH token value on secondary markets will drop as more fish comes on to the market. The value of FISH can be considered a function of scarcity versus utility or supply and demand - so increasing the number of ways that the community can use FISH will increase the demand for FISH. Also increasing the number of ways the community could take FISH out of circulation, will decrease the supply for FISH. Both of these things are good tokenomic outcomes for the value of FISH.
 
 One solution would be to invest in projects that either:
 
@@ -25,7 +25,8 @@ This Hackathon will put up substantial prizes and bounties for the best projects
 
 ## Tokenomics
 
-All entries to the competition that are launched to mainnet will add value to the mutant ecosystem so we suggest providing a kick back for all projects that send FISH to the multisig at a rate of 5% of all FISH burnt per project.
+All entries to the competition that are launched to mainnet will add value to the mutant ecosystem so we suggest providing a 5% reward for all FISH taken out of circulation.
+
 Eg.
 
 - I have a lottery transaction worth 100 FISH.
@@ -37,8 +38,9 @@ This also acts as an incentive on a few levels:
 - For maintaining the project should any maintenance issues comeup that need to be addressed.
 - To ensure that rates of FISH taken out of circulation in the app is high.
 
-Teams must first send FISH to the multisig to be eligable for the 5% kick back. The teams must commit to helping with incidental maintainence of their project - keeping their project online. That FISH will be released to the teams wallet fortnightly from the FISH giveaway pool from within the multisig.
-**[TREASURY PLEASE REVIEW]** Apps that do not take fish out of circulation will not be eligable for prizes or the kick back.
+Teams must first send FISH to the DAO multisig wallet to be eligable for the 5% reward. The team must commit to helping with incidental maintainence of their project and keeping their project working online. The FISH reward will be released to the teams wallet fortnightly from FISH reserves. **[TREASURY PLEASE REVIEW]** 
+
+Apps that do not take fish out of circulation will not be eligable for prizes or rewards.
 
 ## Budget
 
@@ -60,7 +62,7 @@ Incidentals:
 ## Guidelines
 
 - There are no limits on team size but we would recommend working in smaller teams.
-- Your project must send $FISH to the multisig wallet and provide value to the Mutant World.\*\*
+- Your project must send $FISH to the multisig wallet and provide value to the Mutant World.
 - Your project MUST be delivered under an open source license, this is vital for the security of our community and it allows others in the community to build on top of what you have done.
 - Your project must contribute value to the Mutant Community.
 - Your project must be accessible by the mutant community and cannot be behind a paywall.
