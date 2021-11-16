@@ -91,6 +91,6 @@ Incidentals:
 
 ## Team
 
-- @kathodler
-- @dumplingsz
 - @jorgunho
+- @dumplingsz
+- @kathodler
