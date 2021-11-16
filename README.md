@@ -46,7 +46,7 @@ Each project is allowed to include a transaction fee of up to 2,5% of the $FISH 
 - Teams must have their projects be registered no later than 9am EST Monday Oct 22 2021 when the official day 1 hacking starts.
 
 ### Submission and Ropsten launch (Fri Nov 26)
-- 6pm EST on Friday Oct 26 projects are to be 
+- 6pm EST on Friday Nov 26 projects are to be 
   1) Submitted for testing on testnet Ropsten(?)
   2) All code must be submitted to github
   3) Contracts must be verified on etherscan  
