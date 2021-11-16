@@ -1,6 +1,36 @@
-# (DRAFT) PROPOSAL FOR DAO APPROVAL
+# MUTANT WORLD HACKATHON 
 
-# 1st MUTANT $FISHATHON
+## Abstract
+
+On November 6 2021 the Mutant DAO voted to set aside funds and hold a hackathon to enrich $FISH utility within the DAO ecosystem. The hackathon or $FISHathon as like to call it will be a call to arms for all developers/artists/creators that are part of this community to pool together all their resources and build out complementary $FISH utility as it benefits all mutant holders. If successful it may turn into a regular event for Mutant World.  
+
+## Introduction
+
+Mutant Cats released in early October is the first DAO that purchases and fractionalizes Cool Cats, CryptoPunks and more valuable blue chip NFTs to be distributed to its members. The FISH token an ERC20 token on Ethereum, represents fractional shares of Cool Cats held in the vault but also is the primary token used for utility in the Mutant World. Each Mutant Cat NFT earns 10 FISH per day from staking. 
+
+As November 2021 began Mutant Gorillas were released at Auction. Mutant Gorillas can be staked to earn serum NFTS which can be used to cure Mutant Cats which allows them to breed virtual reality VX Cats to be used in the Metaverse. Mutant Gorillas play an important role as the first FISH sink to go live. FISH token is used to speed up serum production. 
+
+The MutantDAO has requested we setup a hackathon to come up with a number of innovative and creative ways to provide further FISH and SERUM utility aside from simply speeding up SERUM production or curing MutantCats.
+
+As a community we want to deliver more utility for our community FISH 
+
+
+## Problem, Solution, and Description
+
+## Token Economics
+
+## Budget
+
+## Guidelines
+
+## Road Map
+
+## Team
+
+Relevant Links
+
+- Snapshot vote
+
 
 Goals of the competition
 - Your project must send $FISH to the multisig wallet and provide value to the Mutant World.**
