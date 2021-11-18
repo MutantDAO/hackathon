@@ -76,6 +76,8 @@ Incidentals:
 - Projects found to have any potentially malicious code not within the spirit of the FISHathon will be immediately disqualified.
 - Minor unintentional security issues will be deal with on a case by case basis.
 - Projects that are submitted to the DAO will form part of the DAO’s code base and be available under an MIT license. This grants the DAO unlimited use of the code and/or services made available and allows modifications as decided by the DAO.
+- Contracts should utilize a circuit breaker to perform upgrades https://consensys.github.io/smart-contract-best-practices/software_engineering/#circuit-breakers-pause-contract-functionality
+
 
 ## Road Map
 
