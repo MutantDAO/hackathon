@@ -50,17 +50,18 @@ The DAO have allowed the use of a maxium budget of 50 ETH for hackathon related 
 
 Prizes:
 
-- 10 ETH ($43.5k USD) first prize
-- 5 ETH ($21k USD) second prize
-- 5 ETH ($21k USD) third prize
-- 2.5 ETH ($10k) fourth prize
-- 2.5 ETH ($10k) fifth prize
+- 1st Prize: 10 ETH
+- 2nd Prize: 6 ETH
+- 3rd Prize: 4 ETH
+- 4th Prize: 3 ETH
+- 5th Prize: 2 ETH
 
 We feel these prize amounts are reasonable as to fund a sustained serious quick software engineering MVP in a startup environment would generally cost far more.
 
 Incidentals:
 
-5 ETH ($21k) marketing, hosting, technical and incidentals budget
+3 ETH Contract audit
+2 ETH marketing and incidental budget
 
 ## Guidelines
 
